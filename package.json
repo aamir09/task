@@ -1,0 +1,23 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "This is a BMI calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamir09/task.git"
+  },
+  "author": "Aamir Ahmad Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamir09/task/issues"
+  },
+  "homepage": "https://github.com/aamir09/task#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3"
+  }
+}
